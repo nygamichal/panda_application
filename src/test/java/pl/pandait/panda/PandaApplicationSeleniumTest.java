@@ -17,7 +17,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-4svx7vUpMhDYjGt2DPZyPKcmc68K7swfxFTM2vc1tFRbp70kReI9RJPHKe+astjLZJALq/ww/dmoBqckmkXTcw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e2cbf1eef5293210d88c6b760cf6723c.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-eVP0D3CwANEZk0NTlWaCqgnVsvA84DXehxb4i+wS3GKKdIMQegSIaheeP8lNFbA0KGSHrhNKzmuAXkCJQx4Tqg==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-7953f40f70b000d119934353956682aa.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-KyjUNFJcdGa3HSS3y30CuB/Iaoau2O2Rp4i+83I+7k8kGgsXiTPg31lMXpIKYWSIQLtl/33hxY/oQ6Grcf0Jew==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-2b28d434525c7466b71d24b7cb7d02b8.css" />
     
     
     
@@ -37,7 +37,7 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-VSSd+Yzi2iMS+pibY6hD/WdypxAEdob5F2RMKxuKcAHS2EpFYJPeTXoVxt0NXg03tfj2dka2mEtHS+vjpYSaDw==" type="application/javascript" data-module-id="./chunk-edit-hook-secret-element.js" data-src="https://github.githubassets.com/assets/chunk-edit-hook-secret-element-55249df9.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-N+ziqJjVMfWiqeVHdayDHpNRlG5HsF+cgV+pFnMDoTJuvBzgw+ndsepe4NcKAxIS3WMvzMaQcYmd2vrIaoAJVg==" type="application/javascript" data-module-id="./chunk-edit.js" data-src="https://github.githubassets.com/assets/chunk-edit-37ece2a8.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-aiqMIGGZGo8AQMjcoImKPMTsZVVRl6htCSY7BpRmpGPG/AF+Wq+P/Oj/dthWQOIk9cCNMPEas7O2zAR6oqn0tA==" type="application/javascript" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-6a2a8c20.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-ejCT9r9E93nir+wK3PibZdMK0J3VXEkbwlgdnOnaUNoiJDI60BMtFt1QwjMU/rLXcjnH0xvgVFINGBFkzvTmRw==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-7a3093f6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-5JqHDVA80ADPVHSjF2xGXKzLHO9lOvt3mNLr3ENIx02AXmbdBiN4Oj4f72MRTVKHP0lhvNY7uGptnFpZvMu6fw==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-e49a870d.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-Z1wcyOFQHzyMSPqp5DLKrobr3DN2Q6Dz31cfPtw4b2vPs9PX0PrxyDXHpTbIlcZ9qT1M1BNAypHKKw8Lp6Yx/Q==" type="application/javascript" data-module-id="./chunk-insights-graph.js" data-src="https://github.githubassets.com/assets/chunk-insights-graph-675c1cc8.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-4iRI95LO0kKcZLWUoOzqI6w8IVGppDVluR4dL7yyz8zgBu/7JAib0MkRN5LUVxXv0KIT6mQ2m5jbKa1NeZoD5A==" type="application/javascript" data-module-id="./chunk-invitations.js" data-src="https://github.githubassets.com/assets/chunk-invitations-e22448f7.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-Dhn0P9aANkDPzMxpqETLGel8ELkO93wrLFrMnEOSg8DguOxR7UNY1MyL3lexSVWo/ZZvme3kcWTaM6gw/DJW1w==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-0e19f43f.js"></script>
@@ -76,7 +76,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="2F9B:D6C5:267B45:274411:60C38AE8" data-pjax-transient="true"/><meta name="html-safe-nonce" content="cafa982d93072e4289ec3eb8bc0927a3e427eb2b5b98a4057fa45e69a0e8b719" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyRjlCOkQ2QzU6MjY3QjQ1OjI3NDQxMTo2MEMzOEFFOCIsInZpc2l0b3JfaWQiOiI1ODQyNDg3NDQwNzg2NTU3NjczIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiZnJhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="bd47611251040e409357e2fcfb5c53dbbed85f8c7c4dab0dd77199d9b1cf252c" data-pjax-transient="true"/>
+  <meta name="request-id" content="2F98:36AD:12342D5:12AABEC:60C493FA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="81f9691aae78997c98fbe36d2627f0a54e241a601edd8824998114cc5b421b25" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyRjk4OjM2QUQ6MTIzNDJENToxMkFBQkVDOjYwQzQ5M0ZBIiwidmlzaXRvcl9pZCI6IjcyODUxODA1MDYxMzQ4NDQ0MTAiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="cbc5bc939cf569af4b4e513a068825c521c1df34c996001a378058b12748b0ee" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:334491795" data-pjax-transient>
 
@@ -335,7 +335,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="I4fCD5EzU9mniLCHRY4S1IWPxIM6DRnrYH5jHzjJVdFnPwnviSm7RnY8P4R4Vbamy3tJlnASFlA6pr5hMDDjfg==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="8nDLCyD2vKxCvHfEeJ6EbWcVM09ZyxDCw/9egdMn24HmxpJOt/GP1ugtiomoA63xNAx/kD3xHtKZh9z512yOFg==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
               <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
