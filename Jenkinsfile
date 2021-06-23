@@ -26,7 +26,11 @@ pipeline {
          stage('Get Code') {
              steps {
                  // Get some code from a GitHub repository
-                 git branch: 'pipeline', url: 'https://github.com/nygamichal/panda_application.git'
+                 
+                 checkout scm
+                 //git branch: 'pipeline', url: 'https://github.com/nygamichal/panda_application.git'
+                 
+                 
                  // git credentialsId: 'nazwa credentiali', url: 'nazwa repo'
              }
          }
