@@ -1,6 +1,0 @@
----
-- hosts: aws
-  roles:
-   - panda
-      
-
