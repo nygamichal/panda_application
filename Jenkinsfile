@@ -66,7 +66,7 @@ pipeline {
                 sh "mvn -s $mavensettings deploy -Dmaven.test.skip=true -e"
                }
              }
-
+         }
         stage('Run terraform') {
             steps {
                 dir('infrastructure/terraform') { 
@@ -86,10 +86,7 @@ pipeline {
                 sh 'ansible-playbook -i ./inventory playbook.yml'
                 } 
             }
-        }
-
-
-        } 
+        }         
     }
 
     post {
